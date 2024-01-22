@@ -1,0 +1,2 @@
+untuk konfigurasi koneksi ke database ada di app/config/config.php
+
